@@ -1,4 +1,4 @@
-# ONR-Signal-Processing---UMD
+# ONR-Signal-Processing-UMD
 Run the main file: Code_20210716_AM_Main_BCGProcessing
 Sample .mat data is stored under the name "Weidi_full_protocol_05202021" in the current folder
 The original journal file containing the timing of the events is also stored under the name "Weidi_full_protocol_05202021.txt"
