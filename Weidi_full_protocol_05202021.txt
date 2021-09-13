@@ -1,0 +1,16 @@
+0.00 ns	Append	Global	Segment 1
+1	14.08 min	Default	Global	E4 sync
+2	15.07 min	Default	Global	BL start
+3	18.18 min	Default	Global	BL stop
+4	24.59 min	Default	Global	2 step start
+5	28.32 min	Default	Global	2 step end
+6	30.00 min	Append	Global	Segment 2
+7	30.21 min	Default	Global	N back start
+8	34.14 min	Default	Global	Nback stop
+9	36.58 min	Default	Global	Strrop test
+10	40.39 min	Default	Global	Stroop stop
+11	40.63 min	Default	Global	E4 marked
+12	45.35 min	Default	Global	cold pressor start
+13	48.76 min	Default	Global	cold pressor stop
+14	49.56 min	Default	Global	BL start
+15	52.44 min	Default	Global	BL end
